@@ -57,3 +57,13 @@ Treinar uma rede neural para prever o valor médio das casas e comparar com um m
 
 ---
 
+## 🚀 Como Rodar os Experimentos
+
+1. **Acesse o notebook no Google Colab:**
+   - [Cp5_IA.ipynb](https://colab.research.google.com/github/caiohc28/cp5-ia/blob/main/Cp5_IA.ipynb)
+
+2. **Execute as células:**
+   - Cada célula contém o código para um dos exercícios.
+   - Clique na célula e pressione `Shift + Enter` para executá-la.
+
+
