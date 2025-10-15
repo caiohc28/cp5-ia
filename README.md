@@ -274,6 +274,12 @@ classifier = pipeline("image-classification",
 
 ---
 
+### **Vídeo explicativo**
+
+```
+Link: https://www.youtube.com/watch?v=urXTno4Dsq8
+```
+
 ## **Como executar**
 
 Pré-requisitos
